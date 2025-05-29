@@ -8,8 +8,13 @@ payload:
   - '+.okx.com'
   - '+.bnappweb.biz'
   - '+.bntrace.com'
-  - '+.subwallet.app'
-  - '+.blastapi.io'
-  - '+.onekey.so'
 
-  
+  - '+.blastapi.io'
+
+  - '+.subwallet.app'
+  - '+.onekey.so'
+  - '+.metamask.io'
+  - '+.tronlink.org'
+  - '+.stellaswap.com'
+
+  - '+.dotters.network'
