@@ -18,3 +18,10 @@ payload:
   - '+.stellaswap.com'
 
   - '+.dotters.network'
+  - '+.infura.io'
+
+  - '+.1inch.io'  
+  - '+.uniswap.org'
+  - '+.matcha.xyz'
+  - '+.0x.org'
+
